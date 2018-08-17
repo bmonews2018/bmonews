@@ -17,7 +17,7 @@ For first time registered user, before you access “My MOL” to access the fun
 1.	Step 1 - Click “Select Business Type” under Company Information, tick on one main business type and click Next.
 2.	Step 2 - Enter the mandatory information under Basic Company Information and Contact Person and click “Next”.
 3.	Step 3 - Provide supporting documents E.g. Business license and Registration documents and become verified member for free.
- 
+
 ## Password
 
 To change Password, Go to My MOL > Settings > Password > Enter Current Password > Enter New Password > Confirm Password > Click Update
