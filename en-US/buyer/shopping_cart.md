@@ -1,4 +1,4 @@
----
+﻿---
 name: Shopping Cart 
 ---
 
@@ -6,8 +6,4 @@ name: Shopping Cart
 
 ## How do I use the Shopping Cart’s feature?
 
-![](http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/test.png)
-
-[aaa](http://google.com)
-
-[test@test.com](mailto:test@test.com)
+Click “Add to Cart” at the Product/ Service details page after performing a Search at the Homepage, and the Product/ Service will be added into the Shopping Cart.
