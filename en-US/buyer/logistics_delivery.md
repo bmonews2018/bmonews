@@ -4,7 +4,7 @@ name: Logistics Delivery
 
 # Logistics Delivery
 
-##  After purchasing the products, how to arrange logistics delivery?
+##  After purchasing the products, how to arrange for logistics delivery?
 
 You may check or arrange for Logistics delivery with the Supplier whom is providing the Products/ Services to you. Alternatively, you may contact MOL’s Logistics Services on the Third Party Logistics Partners we are partnering with for the Logistics delivery. Click here for [Contact Information](mailto:supplychain@emarineonline.com)
 
