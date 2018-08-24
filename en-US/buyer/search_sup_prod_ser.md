@@ -4,7 +4,7 @@ name: Search for Suppliers, Products and Services
 
 # Search for Suppliers, Products and Services
 
-## How many Suppliers does MOL have? Where do those Suppliers come from? What kinds of Products/ Services do they provide? 
+##  How many Suppliers does MOL have? Where do those Suppliers come from? What kinds of Products/ Services do they provide?  
 As of August 2018, MOL has a total of 9,000+ Suppliers which ranges worldwide. Our suppliers fit into a wide variety of products and services including Chartering, Port Agency, Ship Supply, Bunkering, Crewing, Insurance and SNP, and together, they supported over 700+ Ports coverage for your businesses. 
 
 ## Who provide the Products and Services in MOL?
@@ -12,7 +12,7 @@ In order to provide more Products/ Services in more ports, MOL maintains both Di
 
 1st sector: MOL Direct Sale Products/ Services which came from our strictly verified suppliers and MOL will sell the products to you. If you faced any problems on the Products/ Services, you may contact MOL directly for assistance.
 
-2nd sector: MOL Third Party Suppliers’ Products/ Services. These Suppliers setup their own store in MOL with their Products/ Services for your selection. You will transact directly with the Suppliers. If you faced any problems on the transactions with the Suppliers/ Products/ Services, you will need to contact the Supplier first, however if mutual agreements cannot be reached, you may contact MOL for assistance. 
+2nd sector: MOL Third Party Suppliers’ Products/ Services. These Suppliers setup their own store in MOL with their Products/ Services for your selection. You will transact directly with the Suppliers. If you faced any problems on the transactions with the Suppliers/ Products/ Services, you will need to contact the Supplier first, however if mutual agreements cannot be reached, you may contact MOL for assistance.  
 
 ## How to search for the Suppliers, Products and Services?
 
@@ -48,7 +48,7 @@ In MOL’s platform, there are two ways of communication methods for our registe
 
 First method: Live Chat/ Leave a Message. You will be able to chat with the Supplier at the Supplier’s Store and the Products/ Services page when you and the Supplier are both online. If the Supplier is offline, you may leave a message to the Supplier.
 
-Second method: Contact Number/ Email. If you will like to check the Supplier’s Contact Number/ Email, either you or the Supplier need to be MOL’s premium member. 
+Second method: Contact Number/ Email. If you will like to check the Supplier’s Contact Number/ Email, either you or the Supplier need to be MOL’s premium member.  
 
 
 
