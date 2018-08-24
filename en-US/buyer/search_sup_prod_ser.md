@@ -21,6 +21,7 @@ There are two ways to search for Suppliers, Products and Services in MOL. You ca
 Search by MOL’s homepage: Filter by Supplier Store or Product & Service, key in the keywords and click Search at the top menu at MOL’s homepage.
 
 Search by Port Agency’s homepage: Search by Local Agencies, key in the keywords and click Search at Port Agency’s homepage. You may also filter the Local Agencies based on the regions by Asia/ Europe/ America and Other and select the Port Name.
+
 Note: Local Agencies falls under Suppliers 
 
 Search by Ship Supply’s homepage: Filter by Supplier/ Product/ Service, key in the keywords and click Search at the top menu at Ship Supply’s homepage. You may also filter by the Port first before searching the Supplier/ Product/ Service.
@@ -28,9 +29,11 @@ Search by Ship Supply’s homepage: Filter by Supplier/ Product/ Service, key in
 Search by Bunkering’s homepage: Enter Port Name (Optional) and click Search Suppliers at the banner of Bunkering’s homepage. 
 
 Search by Crewing’s homepage: Filter by Manning Agency/ Training Center/ Training Course, key in the keywords and click Search at the top menu at Crewing’s homepage. 
+
 Note: Manning Agency and Training Center falls under Suppliers and Training Course falls under Services.
 
 Search by Insurance’s homepage: Filter by Insurance Provider/ Insurance Product, key in the keywords and click Search at the top menu at Insurance’s homepage. 
+
 Note: Insurance Provider falls under Suppliers and Insurance Product falls under Products.
 
 ##	How to contact the Suppliers?
