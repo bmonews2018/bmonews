@@ -18,11 +18,11 @@ For the payment method, it will depend on the Supplier’s payment methods/ term
 
 RFQ (Request For Quotation) Workflow Overview:
 
-![http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/RFQ (Request For Quotation) Workflow Overview]
+![http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/Shopping_Cart_Workflow_Overview.png]
 
 Shopping Cart Workflow Overview:
 
-![http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/Shopping Cart Workflow Overview]
+![http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/Shopping_Cart_Workflow_Overview.png]
 
 ## Is it free for me to use MOL?
 
