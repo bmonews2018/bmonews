@@ -53,11 +53,11 @@ You will be able to manage your RFQ under Order Management after you had sent it
 
 -	To amend the RFQ (without appointed a Quotation): Go to My MOL > My Enquiry > Open tab > Click Modify
 
-Note: If there is a Quotation already appointed, you will not be allowed to modify the RFQ. 
+	Note: If there is a Quotation already appointed, you will not be allowed to modify the RFQ. 
 
 -	To delete the RFQ, Go to My MOL > My Enquiry > Open/ Appointed/ Completed/ Cancelled/ Expired/ All tab > Click Cancel Order
 
-Note: For Open RFQ, you may cancel the order anytime. For Appointed RFQ, you will need to have mutual agreement with the Supplier to cancel the order, otherwise it may lead to dispute.
+	Note: For Open RFQ, you may cancel the order anytime. For Appointed RFQ, you will need to have mutual agreement with the Supplier to cancel the order, otherwise it may lead to dispute.
 
 
 
