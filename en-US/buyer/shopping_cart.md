@@ -46,7 +46,7 @@ Under Processing status of the Shopping Cart Order;
 
 Note: For New Shopping Cart Order, you may cancel the order anytime. For Processing Shopping Cart Order, you will need to have mutual agreement with the Supplier to cancel the order, otherwise it may lead to dispute.
 
-2.	You will be able to check the Delivery and Payment status where Supplier will update the statuses for you to view it. 
+2. You will be able to check the Delivery and Payment status where Supplier will update the statuses for you to view it. 
 
 Following are the types of statuses:
 
