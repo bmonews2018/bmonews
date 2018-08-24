@@ -20,4 +20,4 @@ After MOL’s payment system is ready, you will be able to safeguard and transac
 
 ##  I am unsatisfied with the Supplier’s Products/ Services provided, can I get a refund? 
 
-If you are unsatisfied with the Supplier’s Products/ Services provided and want to get a refund for payment already made, you will need to negotiate with the supplier first however if mutual agreement cannot be reached, you may contact our Customer Service who will be able to provide assistance on the issue. Refer to [link](http://emarineonline.com.customerservice) 
+If you are unsatisfied with the Supplier’s Products/ Services provided and want to get a refund for payment already made, you will need to negotiate with the supplier first however if mutual agreement cannot be reached, you may contact our Customer Service who will be able to provide assistance on the issue. Refer to [Customer Service].(http://emarineonline.com.customerservice) 
