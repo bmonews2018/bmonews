@@ -28,11 +28,11 @@ You may go to My MOL > My Purchase to check the Shopping Cart Order’s statuses
 
 There are 6 types of statuses for the Shopping Cart Order:
 
-All: All statuses of the Shopping Cart Order will be displayed
+All: All statuses of the Shopping Cart Order will be displayed.
 
-New: Shopping Cart Order had been sent to the Supplier and is awaiting for Supplier’s review on Tax, Delivery Fee and Additional costs
+New: Shopping Cart Order had been sent to the Supplier and is awaiting for Supplier’s review on Tax, Delivery Fee and Additional costs.
 
-Processing: Shopping Cart Order had been confirmed for the billable amount and delivery is in process
+Processing: Shopping Cart Order had been confirmed for the billable amount and delivery is in process.
 
 Completed: Shopping Cart Order delivery and payment had been completed.
 
