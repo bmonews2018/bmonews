@@ -13,11 +13,17 @@ You can check the Quotation received under My MOL > My Enquiry > Open tab > Clic
 There are 7 types of statuses for an Order:
 
 Open: Quotation had been sent by the Supplier based on the Buyer’s RFQ but had not yet been appointed by the Buyer.
+
 Appointed: Quotation had been appointed by Buyer.
+
 Completed: Order’s delivery and payment had been completed.
+
 Cancelled: Order had been cancelled (agreement had been reached between the Buyer and Supplier).
+
 Expired: RFQ Validity or Cargo Expiry Date (Chartering platform only) in the Quotation had expired.
+
 Dispute: Supplier and Buyer had disputes regarding cancelling order. 
+
 Lost: Supplier’s Quotation had been rejected by the Buyer.
 
 Under Appointed status of the Quotation, you will be able to check the Delivery and Payment status where Supplier will update the statuses for you to view it. 
