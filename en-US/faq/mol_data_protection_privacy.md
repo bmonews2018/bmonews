@@ -4,4 +4,4 @@ name: MOL’s Data Protection and Privacy Policy
 
 # MOL’s Data Protection and Privacy Policy
 
-##  Refer to the MOL’s Data Protection and Privacy Policy [here](http://emarineonline.com)
+Refer to the MOL’s Data Protection and Privacy Policy [here](http://emarineonline.com)
