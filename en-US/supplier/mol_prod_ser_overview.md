@@ -18,9 +18,11 @@ Before start using the functions in MOL, you will need to register for a free me
 ![](http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/Registration_Workflow_Overview_Supplier.png)
 
 **RFQ (Request For Quotation) and Quotation Workflows Overview:**
+
 ![](http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/RFQ_Request_For_Quotation_and_Quotation_Workflows_Overview_Supplier.png)
 
 **Shopping Cart Workflow Overview:**
+
 ![](http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/Shopping_Cart_Workflow_Overview.png)
 
 ## How does MOL charge me?
@@ -32,4 +34,3 @@ MOL and the Supplier will have 2 types of Co-operation models.
 -	1st model: You can appoint MOL to be your authorized reseller, and MOL will sell the products and services directly to the Buyers. MOL will pay to you.
 
 -	2nd model: You can setup your own Store in MOL and sell the products and services directly to the Buyers, and based on the transaction transacted successfully will need to pay a certain commission fee to MOL.
-
