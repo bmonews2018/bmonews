@@ -21,14 +21,14 @@ Please provide the RFQ information as specific as possible. You can enter the in
 
 ##  How to set the RFQ Validity/ Cargo Expiry Date?
 
-RFQ Validity Date:
+**RFQ Validity Date:**
 
 It can be set under the RFQ Validity section in the RFQ form. There are two options:
 
 -	Enter “days”, “hours” and “minutes”
 -	Others, select calendar date and time
 
-Cargo Expiry Date: (For Chartering platform only)
+**Cargo Expiry Date: (For Chartering platform only)**
 
 It can be set under the Cargo Expiry section in the Add Cargo form. There are six options:
 

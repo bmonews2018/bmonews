@@ -22,11 +22,12 @@ Secondly, the Buyers will be able to select their preferred Suppliers to send th
 
 Yes. It can be set under the Quotation Validity section in the Quotation form. There are two options:
 
-Quotation Validity 
+**Quotation Validity:**
 
 -	Enter “days”, “hours” and “minutes”
 -	Others, select calendar date and time
-Offer Validity (For Chartering platform only)
+
+**Offer Validity: (For Chartering platform only)**
 
 It can be set under the Offer validity section in the Quotation form. There are six options:
 
