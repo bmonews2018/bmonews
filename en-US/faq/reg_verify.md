@@ -7,7 +7,7 @@ name:	Registration and Verification
 
 ##  Account
 
-To join as a free member, please follow these steps:
+**To join as a free member, please follow these steps:**
 
 1.	Click “Join Free” at MOL’s homepage header
 
@@ -19,13 +19,13 @@ To join as a free member, please follow these steps:
 
 5.	Verify your email at your mailbox. 
 
-To sign in for registered member, please follow these steps:
+**To sign in for registered member, please follow these steps:**
 
 1.	Click “Sign In” at MOL’s homepage header.
 
 2.	Enter the Registered Account Email and Password and click Login.
 
-To verify company information for first time registered member, please follow these steps:
+**To verify company information for first time registered member, please follow these steps:**
 
 For first time registered user, before you access “My MOL” to access the functions, you will be required to setup your account information. 
 
