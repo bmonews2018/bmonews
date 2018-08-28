@@ -50,7 +50,7 @@ You will be able to manage your Quotation under Order Management after you had s
 
 -	To amend the Quotation (without appointed by Buyers): Go to My MOL > My Offer > Open tab > Order ID Number > Click Modify
 
-Note: If your Quotation was already appointed by Buyers, you will not be allowed to modify the Quotation. 
+	Note: If your Quotation was already appointed by Buyers, you will not be allowed to modify the Quotation. 
 
 -	To delete the Quotation, Go to My MOL > My Offer > Open/ Appointed/ Completed/ Cancelled/ Expired/ All tab > Order ID Number > Click Cancel Order 
 
