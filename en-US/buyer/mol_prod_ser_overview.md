@@ -16,11 +16,11 @@ Before start using the functions in MOL, you will need to register for a free me
 
 For the payment method, it will depend on the Supplier’s payment methods/ terms offered to you. At some situations, you may need to pay in advance or make parts of the payment before your order will be confirmed.
 
-RFQ (Request For Quotation) Workflow Overview:
+**RFQ (Request For Quotation) Workflow Overview:**
 
 ![](http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/RFQ_Overview.png)
 
-Shopping Cart Workflow Overview:
+**Shopping Cart Workflow Overview:**
 
 ![](http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/Shopping_Cart_Overview.png)
 
