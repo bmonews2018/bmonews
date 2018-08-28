@@ -14,6 +14,7 @@ Before start using the functions in MOL, you will need to register for a free me
 2.	Setup your company’s store for free in MOL and upload your Products/ Services, successful case studies, licenses and certifications to demonstrate your service qualification to thousands of Buyers. When a Buyer/ Shipowner puts your Products/ Services into the shopping cart, ensure to confirm the order in a timely manner, providing competitive prices and high quality delivery services to win the order and receive a good rating which will enable you to get more orders in future.
 
 **Registration Workflow Overview:**
+
 ![](http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/Registration_Workflow_Overview_Supplier.png)
 
 **RFQ (Request For Quotation) and Quotation Workflows Overview:**
