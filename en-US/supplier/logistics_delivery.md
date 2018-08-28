@@ -1,8 +1,8 @@
 ---
-name: Logistics/ Delivery 
+name: Logistics Delivery 
 ---
 
-# Logistics/ Delivery
+# Logistics Delivery
 
 ##  Do MOL provides Logistics Services?
 
