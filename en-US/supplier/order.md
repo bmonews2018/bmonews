@@ -2,9 +2,9 @@
 name: Order 
 ---
 
-# Order
+## Order
 
-##  What are the different statuses of the Order Management?
+###  What are the different statuses of the Order Management?
 
 There are 7 types of statuses for an Order:
 
@@ -22,7 +22,7 @@ Dispute: Supplier and Buyer had disputes regarding cancelling order.
 
 Lost: Supplier’s Quotation had been rejected by the Buyer.
 
-##  What are the different statuses of the Shopping Cart Order?
+###  What are the different statuses of the Shopping Cart Order?
 
 There are 6 types of statuses for the Shopping Cart Order:
 
@@ -38,7 +38,7 @@ Cancelled: Shopping Cart Order had been cancelled (agreement had been reached be
 
 Dispute: Supplier and Buyer had disputes regarding cancelling order. 
 
-##  How do I update my order status?
+###  How do I update my order status?
 
 You do not need to update the order status as it is controlled by the system automatically based on the processes of each order. However, for the Order Management - Appointed status order and Shopping Cart Order - New/ Processing status order, you will need to update the tracking status for the delivery and payment progress. 
 
