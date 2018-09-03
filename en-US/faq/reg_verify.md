@@ -2,10 +2,10 @@
 name:	Registration and Verification
 ---
 
-# Registration and Verification
+## Registration and Verification
 
 
-##  Account
+###  Account
 
 **To join as a free member, please follow these steps:**
 
@@ -35,15 +35,15 @@ For first time registered user, before you access “My MOL” to access the fun
 
 3.	Step 3 - Provide supporting documents E.g. Business license and Registration documents and become verified member for free.
 
-##  Password
+###  Password
 
 To change Password, Go to My MOL > Settings > Password > Enter Current Password > Enter New Password > Confirm Password > Click Update.
 
-##  Verification
+###  Verification
 
 For first time registered user, our Customer Service officer will contact you to verify your company information and the supporting documents you had submitted. After your company information had been verified, you may start using the MOL’s platform functions.
 
-##  Sub Accounts
+###  Sub Accounts
 
 To setup sub accounts for multiple users in your company to access the functions in MOL, please follow these steps:
 
@@ -53,7 +53,7 @@ To setup sub accounts for multiple users in your company to access the functions
 
 Note: The child user will inherit the same Business Type as the parent user. 
 
-##  Subscription
+###  Subscription
 
 To subscribe to RFQs Subscription and/ or Other Services, Go to My MOL > Settings > Subscription > tick the RFQ Subscription and/ or Other Services that the Supplier will be able to receive from the Buyers’ requests.
 
