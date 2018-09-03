@@ -2,13 +2,13 @@
 name: Quotation and Order
 ---
 
-# Quotation and Order
+## Quotation and Order
 
-##  How do I check the Quotation received?
+###  How do I check the Quotation received?
 
 You can check the Quotation received under My MOL > My Enquiry > Open tab > Click Quotations “No. Received”.
 
-##  What are the different statuses in the Order Management?
+###  What are the different statuses in the Order Management?
 
 There are 7 types of statuses for an Order:
 
@@ -34,13 +34,13 @@ Following are the types of statues:
 
 -	Payment status : Not Paid, Partially Paid, Paid 
 
-##  How do I appoint a Quotation from the multiple Quotations received?
+###  How do I appoint a Quotation from the multiple Quotations received?
 
 You can appoint a Quotation from multiple Quotations received by go to My MOL > My Enquiry > Open tab > Click Quotations “No. Received” > Click “Accept Offer” under the Quotation you will like to appoint
 
 Note: You may only appoint one Quotation out of the multiple Quotations received.
 
-##  After I had appointed a Supplier and want to cancel the order, how do I do it?
+###  After I had appointed a Supplier and want to cancel the order, how do I do it?
 
 You can cancel an order from a Supplier after appointed it by go to My MOL > My Enquiry > Appointed tab > Click “Cancel Offer” under the order you will like to cancel
 
