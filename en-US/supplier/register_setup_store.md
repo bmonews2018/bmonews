@@ -2,9 +2,9 @@
 name: Registration and setup Store
 ---
 
-# Registration and setup Store
+## Registration and setup Store
 
-##  How does the Supplier setup the store?
+###  How does the Supplier setup the store?
 
 When the Supplier logins for the first time, click “Select Business Type” at the store setup page and there will be a 3 steps guide to setup the store. 
 
@@ -16,7 +16,7 @@ After you had setup the store successfully, you may view it under the Store’s 
 
 To edit the Store’s information, you may go to My MOL > At the left panel menu, select Company & Store Information > Store Management. You may update the Store Name, banner and introduction. Click “Preview Store” to view the changes.
 
-##  How to add/ publish a Product/ Service?
+###  How to add/ publish a Product/ Service?
 
 There are 2 options to add/ publish a Product/ Service:
 
@@ -26,7 +26,7 @@ Option 2: For verified Supplier, go to My MOL > At the left panel menu > click P
 
 Note: After clicked “Save & Next”, the Product/ Service will be set as “Inactive” status. This means that the Product/ Service is only visible at the Products/ Services List but not at your store. To enable the Product/ Service to be visible at your store, select the Product(s)/ Service(s) and click “Activate”. Alternatively, if you click “Publish” at the “Add Product” or “Add Service” page, the Product/ Service will be displayed at your store directly.
 
-##  How to deactivate/ activate a Product/ Service?
+###  How to deactivate/ activate a Product/ Service?
 
 You may need to deactivate or hide some of the Products/ Services in your store in certain situations. If you need to activate the Products/ Services back in future, you may click “Activate” to make it visible at your store again. 
 
