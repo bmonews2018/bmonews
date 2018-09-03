@@ -4,7 +4,7 @@ name: MOL’s Products and Services Overview
 
 ## MOL’s Products and Services Overview
 
-#  As a Buyer/ Shipowner, how do I make use of MOL to purchase my Products/ Services?
+###  As a Buyer/ Shipowner, how do I make use of MOL to purchase my Products/ Services?
 
 It will be a simple journey to purchase in MOL as a Buyer/ Shipowner. 
 
@@ -24,7 +24,7 @@ For the payment method, it will depend on the Supplier’s payment methods/ term
 
 ![](http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/Shopping_Cart_Overview.png)
 
-# Is it free for me to use MOL?
+### Is it free for me to use MOL?
 
 Yes, MOL will not collect any Service Fee from you. You will only need to pay for the Product/ Service amount when transacting in the platform.  
 
