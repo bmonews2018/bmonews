@@ -9,7 +9,7 @@ name:	Registration and Verification
 
 **To join as a free member, please follow these steps:**
 
-1.	Click “Join Free” at MOL’s homepage header
+1.	Click “Join Free” at MOL’s homepage header.
 
 2.	Enter all mandatory information and tick on “Marine Online User Agreement”.
 
