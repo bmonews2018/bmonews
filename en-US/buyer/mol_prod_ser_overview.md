@@ -14,15 +14,15 @@ Before start using the functions in MOL, you will need to register for a free me
 
 2.	We have thousands of Suppliers whom setup their company’s stores in MOL, so you are able to search for the Supplier, Product and Service you require and put into your shopping cart. You can make purchase directly if the Product/ Service is a fixed price item, otherwise you may send the order to the Supplier for the price enquiry and delivery details. You are able to pay and rate the Supplier after the delivery had been completed.  
 
-For the payment method, it will depend on the Supplier’s payment methods/ terms offered to you. At some situations, you may need to pay in advance or make parts of the payment before your order will be confirmed.
+For the payment method, it will depend on the Supplier’s payment terms offered to you. At some situations, you may need to pay in advance or make parts of the payment before your order will be confirmed.
 
 **RFQ (Request For Quotation) Workflow Overview:**
 
-![](http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/RFQ_Overview.png)
+![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/RFQ_Overview.png)
 
 **Shopping Cart Workflow Overview:**
 
-![](http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/Shopping_Cart_Overview.png)
+![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/Shopping_Cart_Overview.png)
 
 ### Is it free for me to use MOL?
 
