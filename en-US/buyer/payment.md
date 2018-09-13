@@ -6,7 +6,7 @@ name: Payment
 
 ###  The Product/ Service that I intend to purchase do not have a price, how can I know the price for payment?
 
-You may request for quotation of the Product/ Service’s price by click on “Send Enquiry/ Send Purchase Enquiry/ Send RFQ or Add Cargo” and provide the necessary information for the Supplier to quote the Quotation back to you.
+You may request for quotation of the Product/ Service’s price by click on “Send Enquiry/ Send Purchase Enquiry/ Send RFQ/ Add Cargo” and provide the necessary information for the Supplier to quote the Quotation back to you.
 
 ###  When do I need to make payment to the Supplier? Do I need to make payment in advance?
 
