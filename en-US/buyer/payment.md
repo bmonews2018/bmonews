@@ -6,11 +6,11 @@ name: Payment
 
 ###  The Product/ Service that I intend to purchase do not have a price, how can I know the price for payment?
 
-You may request for quotation of the Product/ Service’s price by click on “Send Enquiry/ Send RFQ/ Get a Quote/ Send Purchase Enquiry or Add Cargo” and provide the necessary information for the Supplier to quote the Quotation back to you.
+You may request for quotation of the Product/ Service’s price by click on “Send Enquiry/ Send Purchase Enquiry/ Send RFQ or Add Cargo” and provide the necessary information for the Supplier to quote the Quotation back to you.
 
 ###  When do I need to make payment to the Supplier? Do I need to make payment in advance?
 
-Generally, the Supplier will liaise with you regarding the Payment Method for payment. As to which Payment Methods or whether you need to make payment in advance, it will depends on the Payment Methods/ Terms that the Supplier will be able to offer you.  
+Generally, the Supplier will liaise with you regarding the payment method. As to which payment terms or whether you need to make payment in advance, it will depend on the payment terms that the Supplier will be able to offer you.   
 
 ###  Do I make payment to MOL or Supplier?
 
@@ -20,4 +20,4 @@ After MOL’s payment system is ready, you will be able to safeguard and transac
 
 ###  I am unsatisfied with the Supplier’s Products/ Services provided, can I get a refund? 
 
-If you are unsatisfied with the Supplier’s Products/ Services provided and want to get a refund for payment already made, you will need to negotiate with the supplier first however if mutual agreement cannot be reached, you may contact our Customer Service who will be able to provide assistance on the issue. Refer to [Customer Service](http://emarineonline.com.customerservice)
+If you are unsatisfied with the Supplier’s Products/ Services provided and want to get a refund for payment already made, you will need to negotiate with the supplier first however if mutual agreement cannot be reached, you may contact our Customer Service who will be able to provide assistance on the issue. Refer to [Customer Service](http://aboutus.emarineonline.com/docs/connect/contactus).
