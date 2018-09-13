@@ -34,7 +34,7 @@ Following are the types of statues:
 
 -	Delivery status: Handling, On Delivery, Delivered 
 
-  Note: Delivered status is updated automatically by the system when Buyer clicks "Confirm Delivery" under Appointed and Processing tabs.
+    Note: Delivered status is updated automatically by the system when Buyer clicks "Confirm Delivery" under Appointed and Processing tabs.
   
 -	Payment status : Unpaid, Partially Paid, Paid 
 
