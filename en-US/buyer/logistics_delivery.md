@@ -6,7 +6,9 @@ name: Logistics Delivery
 
 ###  After purchasing the products, how to arrange for logistics delivery?
 
-You may check or arrange for Logistics delivery with the Supplier whom is providing the Products/ Services to you. Alternatively, you may contact MOL’s Logistics Services on the Third Party Logistics Partners we are partnering with for the Logistics delivery. Click here for [Contact Information](mailto:supplychain@emarineonline.com)
+You may check or arrange for Logistics delivery with the Supplier whom is providing the Products/ Services to you. Alternatively, you may contact MOL’s Logistics Services on the Third Party Logistics Partners we are partnering with for the Logistics delivery. Click here for [Contact Information](mailto:supplychain@emarineonline.com).
+
+You may also refer to our [Logistics Services](https://www.emarineonline.com/#/logistics-services) page for more information.
 
 ###  How is the delivery fee calculated and how to make payment?
 
@@ -18,4 +20,4 @@ Alternatively, you may contact MOL’s Logistics Services on the delivering coun
 
 You may contact the Supplier directly regarding the problems you had encountered in Logistics Delivery if it was arranged with the Supplier. You may contact MOL’s Logistics Services if it had been arranged through MOL’s Logistics Services via our Third Party Logistics Partners.
 
-Alternatively, you may contact our Customer Service who will be able to provide assistance on the issue. Refer to [Customer Service](http://emarineonline.com.customerservice)
+Alternatively, you may contact our Customer Service who will be able to provide assistance on the issue. Refer to [Customer Service](http://aboutus.emarineonline.com/docs/connect/contactus).
