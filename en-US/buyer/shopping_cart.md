@@ -22,15 +22,13 @@ As your order might involve additional charges like Tax, Delivery Fee and other 
 
 ###  How do I go to the Shopping Cart Order to check my Order status?
 
-You may go to My MOL > My Purchase to check the Shopping Cart Order’s statuses.
+You may go to My MOL > Order > My Purchase to check the Shopping Cart Order’s statuses.
 
 ###  What are the different statuses of the Shopping Cart Order?
 
-There are 6 types of statuses for the Shopping Cart Order:
+There are 5 types of statuses for the Shopping Cart Order:
 
-All: All statuses of the Shopping Cart Order will be displayed.
-
-New: Shopping Cart Order had been sent to the Supplier and is awaiting for Supplier’s review on Tax, Delivery Fee and Additional costs.
+New: Shopping Cart Order had been sent to the Supplier and is pending for Supplier’s review on Tax, Delivery Fee and Additional costs.
 
 Processing: Shopping Cart Order had been confirmed for the billable amount and delivery is in process.
 
@@ -50,6 +48,8 @@ Under Processing status of the Shopping Cart Order;
 
 Following are the types of statuses:
 
--	Delivery status: On Delivery, In Progress, Delivered 
+-	Delivery status: Handling, On Delivery, Delivered 
 
--	Payment status : Not Paid, Partially Paid, Paid 
+  (Note: Delivered status is updated automatically by the system when you click "Confirm Delivery" under Processing tab.)
+
+-	Payment status : UnPaid, Partially Paid, Paid 
