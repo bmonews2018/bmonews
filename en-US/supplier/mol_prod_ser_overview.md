@@ -19,7 +19,7 @@ Before start using the functions in MOL, you will need to register for a free me
 
 **RFQ (Request For Quotation) and Quotation Workflows Overview:**
 
-![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/RFQ_Request_For_Quotation_and_Quotation_Workflows_Overview_Supplier1.png)
+![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/RFQ_Request_For_Quotation_and_Quotation_Workflows_Overview_Supplier.png)
 
 **Shopping Cart Workflow Overview:**
 
