@@ -50,6 +50,6 @@ Following are the types of statuses:
 
 -	Delivery status: Handling, On Delivery, Delivered 
 
-  Note: Delivered status is updated automatically by the system when you click “Confirm Delivery” under Processing tab.
+    Note: Delivered status is updated automatically by the system when you click “Confirm Delivery” under Processing tab.
 
 -	Payment status : UnPaid, Partially Paid, Paid 
