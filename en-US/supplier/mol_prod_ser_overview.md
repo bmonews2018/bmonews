@@ -15,15 +15,15 @@ Before start using the functions in MOL, you will need to register for a free me
 
 **Registration Workflow Overview:**
 
-![](http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/Registration_Workflow_Overview_Supplier.png)
+![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/Registration_Workflow_Overview_Supplier.png)
 
 **RFQ (Request For Quotation) and Quotation Workflows Overview:**
 
-![](http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/RFQ_Request_For_Quotation_and_Quotation_Workflows_Overview_Supplier.png)
+![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/RFQ_Request_For_Quotation_and_Quotation_Workflows_Overview_Supplier.png)
 
 **Shopping Cart Workflow Overview:**
 
-![](http://bwoil-file.oss-cn-hongkong.aliyuncs.com/cms/Shopping_Cart_Workflow_Overview.png)
+![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/Shopping_Cart_Workflow_Overview.png)
 
 ### How does MOL charge me?
 
