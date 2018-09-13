@@ -9,7 +9,9 @@ name: Registration and setup Store
 When the Supplier logins for the first time, click “Select Business Type” at the store setup page and there will be a 3 steps guide to setup the store. 
 
 Step 1: Select one main business type and click “Next”.
+
 Step 2: Enter basic company information and click “Next”.
+
 Step 3: Provide supporting documents (Business license, Registration documents etc) to verify your company information. 
 
 After you had setup the store successfully, you may view it under the Store’s homepage. (Click “Confirm and go to store homepage” or go to My MOL > At the left panel menu, select Company & Store > Store Management > Click Preview Store).
