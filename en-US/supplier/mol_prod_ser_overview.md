@@ -27,10 +27,10 @@ Before start using the functions in MOL, you will need to register for a free me
 
 ### How does MOL charge me?
 
-MOL follows the principle of “No Transaction No Payment”. Only when you had an order transacted successfully at MOL’s platform, we will collect the payment from you.
+MOL follows the principle of “No Transaction No Fee”. Only when you had an order transacted successfully at MOL’s platform, we will collect the payment from you.
 
 MOL and the Supplier will have 2 types of Co-operation models. 
 
 -	1st model: You can appoint MOL to be your authorized reseller, and MOL will sell the products and services directly to the Buyers. MOL will pay to you.
 
--	2nd model: You can setup your own Store in MOL and sell the products and services directly to the Buyers, and based on the transaction transacted successfully will need to pay a certain commission fee to MOL.
+-	2nd model: You can setup your own Store in MOL and sell the products and services directly to the Buyers, and based on the transaction transacted successfully will need to pay a certain service fee to MOL.
