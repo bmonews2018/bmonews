@@ -14,7 +14,7 @@ You may also refer to our [Logistics Services](https://www.emarineonline.com/#/l
 
 You can update the Delivery status to the Buyers under Order Management. Go to My MOL > Order > My Offer > Appointed/ Processing tab > Click Update Status.  
 
-Following are the types of Delivery statues: 
+Following are the types of Delivery statuses: 
 
 - Handling
 -	On Delivery
