@@ -12,7 +12,7 @@ Click “Add to Cart” at the Product/ Service details page after performing a 
 
 After the Products/ Services had been added into the Shopping Cart, you will be at Step 1 - Cart Order. There are 2 more steps to complete your transaction.
 
-1.	At Step 2 - Order Summary, enter Delivery Information, Remarks, Payment Method and click “Confirm Order”
+1.	At Step 2 - Order Summary, enter Delivery Information, Remarks, Payment Method and click “Confirm Order”.
 
 2.	At Step 3 - Order Number will be generated after Order Submission is successful. You may click “Order Management” to track this order.
 
