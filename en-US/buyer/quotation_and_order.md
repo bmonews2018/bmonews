@@ -40,7 +40,7 @@ Following are the types of statues:
 
 ###  How do I appoint a Quotation from the multiple Quotations received?
 
-You can appoint a Quotation from multiple Quotations received by go to My MOL > Order > My Enquiry > Open tab > Click Quotations “No. Received” > Click “Accept Offer” under the Quotation you will like to appoint
+You can appoint a Quotation from multiple Quotations received by go to My MOL > Order > My Enquiry > Open tab > Click Quotations “No. Received” > Click “Accept Offer” under the Quotation you will like to appoint.
 
 Note: You may only appoint one Quotation out of the multiple Quotations received.
 
