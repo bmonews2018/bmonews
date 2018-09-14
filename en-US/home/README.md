@@ -7,6 +7,6 @@ name: Marine Online Help Centre
 
 ### Other Departments
 
-|**Buyer ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/Buyer.png)|
+|**Buyer**|![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/Buyer.png)|
 |:---|:---|   
-|**Supplier<br>|![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/Supplier.png)|
+|**Supplier**|![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/Supplier.png)|
