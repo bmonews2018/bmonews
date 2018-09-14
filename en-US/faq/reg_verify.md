@@ -33,11 +33,11 @@ For first time registered user, before you access “My MOL” to access the fun
 
 2.	Step 2 - Enter the mandatory information under Basic Company Information and Contact Person and click “Next”.
 
-3.	Step 3 - Provide supporting documents E.g. Business license and Registration documents and become verified member for free.
+3.	Step 3 - Provide supporting documents E.g. Business license and registration documents and become verified member for free.
 
 ###  Password
 
-To change Password, Go to My MOL > Settings > Password > Enter Current Password > Enter New Password > Confirm Password > Click Update.
+To change Password, Go to My MOL > Settings > Change Password > Enter Current Password > Enter New Password > Confirm Password > Click Update.
 
 ###  Verification
 
@@ -47,7 +47,7 @@ For first time registered user, our Customer Service officer will contact you to
 
 To setup sub accounts for multiple users in your company to access the functions in MOL, please follow these steps:
 
-1.	Enter all mandatory information under My MOL > Settings > Account Management  and click “Create User”. 
+1.	Enter all mandatory information under My MOL > Settings > Account Management > Enter the mandatory information > click “Create User”. 
 
 2.	Once the user is saved successfully, it will be displayed under the Account management list.
 
@@ -55,7 +55,7 @@ Note: The child user will inherit the same Business Type as the parent user.
 
 ###  Subscription
 
-To subscribe to RFQs Subscription and/ or Other Services, Go to My MOL > Settings > Subscription > tick the RFQ Subscription and/ or Other Services that the Supplier will be able to receive from the Buyers’ requests.
+To subscribe to News and/ or Other Services Subscription, Go to My MOL > Settings > Subscription > tick the News Subscription and/ or Other Services.
 
 
 
