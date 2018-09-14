@@ -16,9 +16,7 @@ Depending on the nature of the business for each platform, MOL will charge the s
 
 ###  When the Service Fee is due after a transaction was completed in MOL, how do I make payment for it?
 
-MOL will collect the service fee on a monthly basis from the Suppliers; a digital invoice will be send to your registered email address and you will be able to make payment via Telegraphic Transfer (TT) or Cheque payment modes. 
-
-Note: Our Invoice’s Payment Due Date is 5 working days after your company's Invoice Payment Term.
+MOL will collect the platform service fee on a monthly basis from the Suppliers; a digital invoice will be send to your registered email address by the end of a calendar month and you will need to make payment via Telegraphic Transfer (TT) or Cheque payment before the 15th day of the next month.
 
 ###  What is considered as a successful transaction between the Supplier and Buyer in MOL’s platform?
 
