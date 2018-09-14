@@ -51,7 +51,7 @@ To setup sub accounts for multiple users in your company to access the functions
 
 2.	Once the user is saved successfully, it will be displayed under the Account management list.
 
-    Note: The child user will inherit the same Business Type as the parent user. 
+Note: The child user will inherit the same Business Type as the parent user. 
 
 ###  Subscription
 
