@@ -30,7 +30,7 @@ There are 5 types of statuses for the Shopping Cart Order:
 
 New: Shopping Cart Order had been sent to the Supplier and is pending for Supplier’s review on Tax, Delivery Fee and Additional costs.
 
-Processing: Shopping Cart Order had been confirmed for the billable amount and delivery is in process.
+Processing: Shopping Cart Order had been confirmed for the billable amount and delivery is in progress.
 
 Completed: Shopping Cart Order delivery and payment had been completed.
 
