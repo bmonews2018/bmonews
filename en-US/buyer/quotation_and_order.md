@@ -46,7 +46,7 @@ Note: You may only appoint one Quotation out of the multiple Quotations received
 
 ###  After I had appointed a Supplier and want to cancel the order, how do I do it?
 
-You can cancel an order from a Supplier after appointed it by go to My MOL > Order > My Enquiry > Appointed tab > Click “Cancel Offer” under the order you will like to cancel
+You can cancel an order from a Supplier after appointed it by go to My MOL > Order > My Enquiry > Appointed tab > Click “Cancel Offer” under the order you will like to cancel.
 
 Note: Cancelled order is subjected to the Supplier’s approval. Supplier will be able to confirm to cancel or disagree to cancel the order. 
 
