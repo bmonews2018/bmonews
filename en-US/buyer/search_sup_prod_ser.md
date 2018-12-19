@@ -1,8 +1,8 @@
 ---
-name: Search for Suppliers, Products and Services
+name: Search For Suppliers, Products And Services
 ---
 
-## Search for Suppliers, Products and Services
+## Search For Suppliers, Products And Services
 
 ###  How many Suppliers does MOL have? Where do those Suppliers come from? What kinds of Products/ Services do they provide?  
 As of August 2018, MOL has a total of 9,000+ Suppliers which ranges worldwide. Our suppliers fit into a wide variety of products and services including Chartering, Port Agency, Ship Supply, Bunkering, Crewing, Insurance and SNP, and together, they supported over 700+ Ports coverage for your businesses. 
