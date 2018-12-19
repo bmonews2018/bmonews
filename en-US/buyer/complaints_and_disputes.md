@@ -1,8 +1,8 @@
 ---
-name: Complaints and Disputes
+name: Complaints And Disputes
 ---
 
-## Complaints and Disputes
+## Complaints And Disputes
 
 ###  The Product/ Service that I received had problems, what do I do now?
 
