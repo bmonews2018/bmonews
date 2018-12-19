@@ -1,3 +1,3 @@
 ---
-name: For Supplier
+name: FOR SUPPLIER
 ---
