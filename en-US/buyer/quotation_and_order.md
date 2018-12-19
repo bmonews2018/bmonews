@@ -1,8 +1,8 @@
 ---
-name: Quotation and Order
+name: Quotation And Order
 ---
 
-## Quotation and Order
+## Quotation And Order
 
 ###  How do I check the Quotation received?
 
