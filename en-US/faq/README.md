@@ -1,3 +1,3 @@
 ---
-name: Frequently Asked Questions (FAQs)
+name: FREQUENTLY ASKED QUESTIONS (FAQ)
 ---
