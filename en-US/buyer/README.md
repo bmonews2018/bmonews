@@ -1,3 +1,3 @@
 ---
-name: For Buyer 
+name: FOR BUYER
 ---
