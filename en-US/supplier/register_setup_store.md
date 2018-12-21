@@ -1,8 +1,8 @@
 ---
-name: Registration and setup Store
+name: Registration And Setup Store
 ---
 
-## Registration and setup Store
+## Registration And Setup Store
 
 ###  How does the Supplier setup the store?
 
