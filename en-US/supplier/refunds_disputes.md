@@ -1,8 +1,8 @@
 ---
-name: Refunds or Disputes 
+name: Refunds Or Disputes 
 ---
 
-## Refunds or Disputes
+## Refunds Or Disputes
 
 ###  Buyers are unsatisfied with the Products/ Services provided and refuse to make payment, what do I do now?
 
