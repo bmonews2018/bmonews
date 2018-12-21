@@ -1,8 +1,8 @@
 ---
-name:	Registration and Verification
+name:	Registration And Verification
 ---
 
-## Registration and Verification
+## Registration And Verification
 
 
 ###  Account
