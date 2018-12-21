@@ -1,8 +1,8 @@
 ---
-name: MOL’s Products and Services Overview
+name: MOL’s Products And Services Overview
 ---
 
-## MOL’s Products and Services Overview
+## MOL’s Products And Services Overview
 
 ###  As a Supplier, how do I make use of MOL for my Products/ Services?
 It will be a simple journey to promote and sell your Products/ Services in MOL as a Supplier.
