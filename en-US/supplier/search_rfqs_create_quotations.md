@@ -1,8 +1,8 @@
 ---
-name: Search for RFQs and Create Quotations
+name: Search For RFQs And Create Quotations
 ---
 
-## Search for RFQs and Create Quotations
+## Search For RFQs And Create Quotations
 
 ###  What are RFQs? How to search for RFQs and create Quotations?
 
