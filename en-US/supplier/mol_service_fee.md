@@ -4,11 +4,11 @@ name: MOL’s Service Fee
 
 ## MOL’s Service Fee
 
-  * [What is MOL’s Service Fee?](#mol-service-fee)
-  * [What are MOL’s Service Fee Charges Rates and Policy?](#mol-service-fee-charges-rates-and-policy)
-  * [When the Service Fee is due after a transaction was completed in MOL, how do I make payment for it?](#service-fee-payment)
-  * [What is considered as a successful transaction between the Supplier and Buyer in MOL’s platform?](#the-successful-transaction-between-the-supplier-and-buyer-in-mol-platform)
-  * [Although I was appointed by the Buyer, but the order did not transact successfully in the end, do I still need to pay for the MOL’s Service Fee?](#service-fee-for-unsuccessful-transaction-after-the-buyer-appointed-the-supplier)
+  * [What Is MOL’s Service Fee?](#mol-service-fee)
+  * [What Are MOL’s Service Fee Charges Rates And Policy?](#mol-service-fee-charges-rates-and-policy)
+  * [When The Service Fee Is Due After A Transaction Was Completed In MOL, How Do I Make Payment For It?](#service-fee-payment)
+  * [What Is Considered As A Successful Transaction Between The Supplier And Buyer In MOL’s Platform?](#the-successful-transaction-between-the-supplier-and-buyer-in-mol-platform)
+  * [Although I Was Appointed By The Buyer, But The Order Did Not Transact Successfully In The End, Do I Still Need To Pay For The MOL’s Service Fee?](#service-fee-for-unsuccessful-transaction-after-the-buyer-appointed-the-supplier)
   
 ---
 
