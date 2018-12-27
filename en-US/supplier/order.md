@@ -8,6 +8,8 @@ name: Order
 >   * [The Different Statuses Of The Shopping Cart Order](#the-different-statuses-of-the-shopping-cart-order)
 >   * [Update Order Status](#update-order-status)
 
+---
+
 ###  The Different Statuses Of The Order Management
 
 There are 8 types of statuses for an Order:
@@ -35,6 +37,8 @@ Note: Following are the Order Tracking Statuses found in Appointed, Processing a
 -	Payment status: Unpaid, Partially Paid, Paid
 
   [Back to Top](order#)
+  
+---
 
 ###  The Different Statuses Of The Shopping Cart Order
 
@@ -57,6 +61,8 @@ Note: Following are the Order Tracking Statuses found in Processing and Complete
 - Payment status: Unpaid, Partially Paid, Paid
 
   [Back to Top](order#)
+
+---
 
 ###  Update Order Status
 
