@@ -40,15 +40,15 @@ For first time registered user, before you access “My MOL” to access the fun
 
 3.	Step 3 - Provide supporting documents E.g. Business license and registration documents and become verified member for free.
 
-  [Back to Top](#registration-and-verification)
+  [Back to Top](reg_verify#)
 
 ###  Password
 
-To change Password, Go to My MOL > Settings > Change Password > Enter Current Password > Enter New Password > Confirm Password > Click Update.   [Back to Top](#registration-and-verification)
+To change Password, Go to My MOL > Settings > Change Password > Enter Current Password > Enter New Password > Confirm Password > Click Update.   [Back to Top](reg_verify#)
 
 ###  Verification
 
-For first time registered user, our Customer Service officer will contact you to verify your company information and the supporting documents you had submitted. After your company information had been verified, you may start using the MOL’s platform functions.<br>  [Back to Top](#registration-and-verification) 
+For first time registered user, our Customer Service officer will contact you to verify your company information and the supporting documents you had submitted. After your company information had been verified, you may start using the MOL’s platform functions.<br>  [Back to Top](reg_verify#) 
 
 ###  Sub Accounts
 
@@ -58,13 +58,13 @@ To setup sub accounts for multiple users in your company to access the functions
 
 2.	Once the user is saved successfully, it will be displayed under the Account management list.
 
-Note: The child user will inherit the same Business Type as the parent user.   [Back to Top](#registration-and-verification)
+Note: The child user will inherit the same Business Type as the parent user.   [Back to Top](reg_verify#)
 
 ###  Subscription
 
 To subscribe to News and/ or Other Services Subscription, Go to My MOL > Settings > Subscription > tick the News Subscription and/ or Other Services.
 
-  [Back to Top](#registration-and-verification)
+  [Back to Top](reg_verify#)
   
   
 
