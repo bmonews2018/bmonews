@@ -54,7 +54,9 @@ To change Password, Go to My MOL > Settings > Change Password > Enter Current Pa
 
 ###  Verification
 
-For first time registered user, our Customer Service officer will contact you to verify your company information and the supporting documents you had submitted. After your company information had been verified, you may start using the MOL’s platform functions.<br>  [Back to Top](reg_verify#) 
+For first time registered user, our Customer Service officer will contact you to verify your company information and the supporting documents you had submitted. After your company information had been verified, you may start using the MOL’s platform functions.
+
+[Back to Top](reg_verify#) 
 
 ---
 
