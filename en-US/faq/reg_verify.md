@@ -4,11 +4,11 @@ name:	Registration And Verification
 
 ## Registration And Verification
 
-  * [Account](#account)
-  * [Password](#password)
-  * [Verification](#verification)
-  * [Sub Accounts](#sub-accounts)
-  * [Subscription](#subscription)
+>   * [Account](#account)
+>   * [Password](#password)
+>   * [Verification](#verification)
+>   * [Sub Accounts](#sub-accounts)
+>   * [Subscription](#subscription)
 
 ###  Account
 
