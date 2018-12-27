@@ -4,11 +4,13 @@ name:	Registration And Verification
 
 ## Registration And Verification
 
->   * [Account](#account)
->   * [Password](#password)
->   * [Verification](#verification)
->   * [Sub Accounts](#sub-accounts)
->   * [Subscription](#subscription)
+  * [Account](#account)
+  * [Password](#password)
+  * [Verification](#verification)
+  * [Sub Accounts](#sub-accounts)
+  * [Subscription](#subscription)
+
+---
 
 ###  Account
 
@@ -42,13 +44,19 @@ For first time registered user, before you access “My MOL” to access the fun
 
   [Back to Top](reg_verify#)
 
+---
+
 ###  Password
 
 To change Password, Go to My MOL > Settings > Change Password > Enter Current Password > Enter New Password > Confirm Password > Click Update.   [Back to Top](reg_verify#)
 
+---
+
 ###  Verification
 
 For first time registered user, our Customer Service officer will contact you to verify your company information and the supporting documents you had submitted. After your company information had been verified, you may start using the MOL’s platform functions.<br>  [Back to Top](reg_verify#) 
+
+---
 
 ###  Sub Accounts
 
@@ -59,6 +67,8 @@ To setup sub accounts for multiple users in your company to access the functions
 2.	Once the user is saved successfully, it will be displayed under the Account management list.
 
 Note: The child user will inherit the same Business Type as the parent user.   [Back to Top](reg_verify#)
+
+---
 
 ###  Subscription
 
