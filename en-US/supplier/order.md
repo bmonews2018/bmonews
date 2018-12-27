@@ -4,7 +4,11 @@ name: Order
 
 ## Order
 
-###  What are the different statuses of the Order Management?
+>   * [The Different Statuses Of The Order Management](#the-different-statuses-of-the-order-management)
+>   * [The Different Statuses Of The Shopping Cart Order](#the-different-statuses-of-the-shopping-cart-order)
+>   * [Update Order Status](#update-order-status)
+
+###  The Different Statuses Of The Order Management
 
 There are 8 types of statuses for an Order:
 
@@ -30,7 +34,9 @@ Note: Following are the Order Tracking Statuses found in Appointed, Processing a
 
 -	Payment status: Unpaid, Partially Paid, Paid
 
-###  What are the different statuses of the Shopping Cart Order?
+  [Back to Top](order#)
+
+###  The Different Statuses Of The Shopping Cart Order
 
 There are 5 types of statuses for the Shopping Cart Order:
 
@@ -50,7 +56,9 @@ Note: Following are the Order Tracking Statuses found in Processing and Complete
 
 - Payment status: Unpaid, Partially Paid, Paid
 
-###  How do I update my order status?
+  [Back to Top](order#)
+
+###  Update Order Status
 
 You do not need to update the order status as it is controlled by the system automatically based on the processes of each order. However, for the Order Management - Appointed/ Processing  status order and Shopping Cart Order - New/ Processing status order, you will need to update the tracking status for the delivery and payment progress for your Buyers. 
 
@@ -69,3 +77,6 @@ Following are the types of statuses:
     Note: Delivered status is updated automatically by the system when Buyer clicks "Confirm Delivery" under Appointed and Processing tabs.
  
 -	Payment status : Unpaid, Partially Paid, Paid  
+
+  [Back to Top](order#)
+  
