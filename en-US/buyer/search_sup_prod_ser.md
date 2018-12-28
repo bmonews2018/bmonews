@@ -31,7 +31,7 @@ In order to provide more Products/ Services in more ports, MOL maintains both Di
   
 ---
 
-### Search For The Suppliers and Services
+### Search For The Suppliers and Products
 
 There are two ways to search for Suppliers, Products and Services in MOL. You can either search at the MOL’s homepage or at some of the platforms’ homepages.
 
