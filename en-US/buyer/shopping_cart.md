@@ -4,11 +4,21 @@ name: Shopping Cart
 
 ## Shopping Cart
 
-###  How do I use the Shopping Cart’s feature?
+  * [How Do I Use The Shopping Cart’s Feature?](#add-product-or-service-to-shopping-cart)
+  * [What Is The Next Step To Do After I Added The Products/ Services Into The Shopping Cart?](#confirm-order-from-shopping-cart)
+  * [Why Do The Products/ Services That I Put Into The Shopping Cart Need The Supplier To Verify The Tax, Delivery Fee And Additional Costs Again?](#tax--delivery-fee-and-additional-costs-verification)
+  * [How Do I Go To The Shopping Cart Order To Check My Order Status?](#check-shopping-cart-order-status)
+  * [What Are The Different Statuses Of The Shopping Cart Order?](#the-different-statuses-of-the-shopping-cart-order)
 
-Click “Add to Cart” at the Product/ Service details page after performing a Search at the Homepage, and the Product/ Service will be added into the Shopping Cart.
+---
 
-###  What is the next step to do after I added the Products/ Services into the shopping cart?
+###  Add Product Or Service To Shopping Cart
+
+Click “Add to Cart” at the Product/ Service details page after performing a Search at the Homepage, and the Product/ Service will be added into the Shopping Cart.  [Back to Top](shopping_cart#)
+  
+---
+
+###  Confirm Order From Shopping Cart
 
 After the Products/ Services had been added into the Shopping Cart, you will be at Step 1 - Cart Order. There are 2 more steps to complete your transaction.
 
@@ -16,15 +26,23 @@ After the Products/ Services had been added into the Shopping Cart, you will be 
 
 2.	At Step 3 - Order Number will be generated after Order Submission is successful. You may click “Order Management” to track this order.
 
-###  Why do the Products/ Services that I put into the Shopping Cart need the Supplier to verify the Tax, Delivery Fee and Additional costs again?
+  [Back to Top](shopping_cart#)
+  
+---
 
-As your order might involve additional charges like Tax, Delivery Fee and other Additional Costs hence the Supplier will need to verify and include these costs into your order as the final billable amount. 
+###  Tax, Delivery Fee And Additional Costs Verification
 
-###  How do I go to the Shopping Cart Order to check my Order status?
+As your order might involve additional charges like Tax, Delivery Fee and other Additional Costs hence the Supplier will need to verify and include these costs into your order as the final billable amount.   [Back to Top](shopping_cart#)
+  
+---
 
-You may go to My MOL > Order > My Purchase to check the Shopping Cart Order’s statuses.
+###  Check Shopping Cart Order Status
 
-###  What are the different statuses of the Shopping Cart Order?
+You may go to My MOL > Order > My Purchase to check the Shopping Cart Order’s statuses.  [Back to Top](shopping_cart#)
+  
+---
+
+###  The Different Statuses Of The Shopping Cart Order?
 
 There are 5 types of statuses for the Shopping Cart Order:
 
@@ -52,4 +70,7 @@ Following are the types of statuses:
 
     Note: Delivered status is updated automatically by the system when you click “Confirm Delivery” under Processing tab.
 
--	Payment status : Unpaid, Partially Paid, Paid 
+-	Payment status: Unpaid, Partially Paid, Paid 
+
+  [Back to Top](shopping_cart#)
+  
