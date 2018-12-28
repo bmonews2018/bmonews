@@ -4,11 +4,22 @@ name: Quotation And Order
 
 ## Quotation And Order
 
-###  How do I check the Quotation received?
+  * [How Do I Check The Quotation Received?](#check-received-quotation)
+  * [What Are The Different Statuses In The Order Management?](#different-statuses-in-the-order-management)
+  * [How Do I Appoint A Quotation From The Multiple Quotations Received?](#appoint-quotation)
+  * [After I Had Appointed A Supplier And Want To Cancel The Order, How Do I Do It?](#cancel-the-appointed-order)
+
+---
+
+###  Check Received Quotation
 
 You can check the Quotation received under My MOL > Order > My Enquiry > Open tab > Click Quotations “No. Received”.
 
-###  What are the different statuses in the Order Management?
+  [Back to Top](quotation_and_order#)
+  
+---
+
+###  Different Statuses In The Order Management
 
 There are 8 types of statuses for an Order:
 
@@ -38,16 +49,24 @@ Following are the types of statues:
   
 -	Payment status : Unpaid, Partially Paid, Paid 
 
-###  How do I appoint a Quotation from the multiple Quotations received?
+  [Back to Top](quotation_and_order#)
+  
+---
+
+###  Appoint Quotation
 
 You can appoint a Quotation from multiple Quotations received by go to My MOL > Order > My Enquiry > Open tab > Click Quotations “No. Received” > Click “Accept Offer” under the Quotation you will like to appoint.
 
 Note: You may only appoint one Quotation out of the multiple Quotations received.
 
-###  After I had appointed a Supplier and want to cancel the order, how do I do it?
+  [Back to Top](quotation_and_order#)
+  
+---
+
+###  Cancel The Appointed Order
 
 You can cancel an order from a Supplier after appointed it by go to My MOL > Order > My Enquiry > Appointed tab > Click “Cancel Offer” under the order you will like to cancel.
 
 Note: Cancelled order is subjected to the Supplier’s approval. Supplier will be able to confirm to cancel or disagree to cancel the order. 
 
-
+  [Back to Top](quotation_and_order#)
