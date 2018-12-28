@@ -47,7 +47,7 @@ Following are the types of statues:
 
     Note: Delivered status is updated automatically by the system when Buyer clicks "Confirm Delivery" under Appointed and Processing tabs.
   
--	Payment status : Unpaid, Partially Paid, Paid 
+-	Payment status: Unpaid, Partially Paid, Paid 
 
   [Back to Top](quotation_and_order#)
   
