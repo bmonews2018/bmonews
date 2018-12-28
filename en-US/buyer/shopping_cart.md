@@ -6,7 +6,7 @@ name: Shopping Cart
 
   * [How Do I Use The Shopping Cart’s Feature?](#add-product-or-service-to-shopping-cart)
   * [What Is The Next Step To Do After I Added The Products/ Services Into The Shopping Cart?](#confirm-order-from-shopping-cart)
-  * [Why Do The Products/ Services That I Put Into The Shopping Cart Need The Supplier To Verify The Tax, Delivery Fee And Additional Costs Again?](#tax--delivery-fee-and-additional-costs-verification)
+  * [Why Do The Products/ Services That I Put Into The Shopping Cart Need The Supplier To Verify The Tax, Delivery Fee And Additional Costs Again?](#tax-and-additional-costs-verification)
   * [How Do I Go To The Shopping Cart Order To Check My Order Status?](#check-shopping-cart-order-status)
   * [What Are The Different Statuses Of The Shopping Cart Order?](#the-different-statuses-of-the-shopping-cart-order)
 
@@ -30,7 +30,7 @@ After the Products/ Services had been added into the Shopping Cart, you will be 
   
 ---
 
-###  Tax, Delivery Fee And Additional Costs Verification
+###  Tax And Additional Costs Verification
 
 As your order might involve additional charges like Tax, Delivery Fee and other Additional Costs hence the Supplier will need to verify and include these costs into your order as the final billable amount.   [Back to Top](shopping_cart#)
   
