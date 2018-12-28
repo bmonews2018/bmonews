@@ -4,7 +4,13 @@ name: MOL’s Products And Services Overview
 
 ## MOL’s Products And Services Overview
 
-###  As a Supplier, how do I make use of MOL for my Products/ Services?
+  * [As A Supplier, How Do I Make Use Of MOL For My Products/ Services?](#be-a-mol-supplier)
+  * [How Does MOL Charge Me?](#mol-charges)
+
+---
+
+###  Be A MOL Supplier
+
 It will be a simple journey to promote and sell your Products/ Services in MOL as a Supplier.
 
 Before start using the functions in MOL, you will need to register for a free membership account and provide the supporting documents (a copy of your business license or its equivalent) to let us know that you are a real supplier. After the verification had been completed, you will be able to start taking orders and earning money in MOL via 2 methods.
@@ -25,7 +31,11 @@ Before start using the functions in MOL, you will need to register for a free me
 
 ![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/Shopping_Cart_Workflow_Overview.png)
 
-### How does MOL charge me?
+  [Back to Top](mol_prod_ser_overview#)
+  
+---
+
+### MOL Charges
 
 MOL follows the principle of “No Transaction No Fee”. Only when you had an order transacted successfully at MOL’s platform, we will collect the payment from you.
 
@@ -34,3 +44,6 @@ MOL and the Supplier will have 2 types of Co-operation models.
 -	1st model: You can appoint MOL to be your authorized reseller, and MOL will sell the products and services directly to the Buyers. MOL will pay to you.
 
 -	2nd model: You can setup your own Store in MOL and sell the products and services directly to the Buyers, and based on the transaction transacted successfully will need to pay a certain service fee to MOL.
+
+  [Back to Top](mol_prod_ser_overview#)
+  
