@@ -4,7 +4,7 @@ name: Marine Online Help Centre
 
 # Marine Online Help Centre
 
-|**Buyer**|**Supplier**|
+|**BUYER**|**SUPPLIER**|
 |:---|:---|   
 |![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/Buyer.png)|![](https://bwec-file.oss-cn-hongkong.aliyuncs.com/cms/Supplier.png)|
 |**Learn More About:**|**Learn More About:**|
