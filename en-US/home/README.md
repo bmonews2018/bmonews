@@ -1,8 +1,8 @@
 ---
-name: MARINE ONLINE HELP CENTRE
+name: Marine Online Help Centre
 ---
 
-# MARINE ONLINE HELP CENTRE
+# Marine Online Help Centre
 
 |**BUYER**|**SUPPLIER**|
 |:---|:---|   
