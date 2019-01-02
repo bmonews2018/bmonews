@@ -6,9 +6,9 @@ name: Logistics Delivery
 
 ###  Do MOL provides Logistics Services?
 
-MOL is partnering with some of the renowned Third Party Logistics Services Providers worldwide whom are our authorized partners in the platform. You may contact MOL’s Logistics Services for the required Logistics Services. Click here for [Contact Information](mailto:supplychain@emarineonline.com).
+MOL is partnering with some of the renowned Third Party Logistics Services Providers worldwide whom are our authorized partners in the platform. You may contact MOL’s Logistics Services for the required Logistics Services. Click here for [Contact Information](https://aboutus.emarineonline.com/docs/connect/contactus).
 
-You may also refer to our [Logistics Services](https://www.emarineonline.com/#/logistics-services) page for more information.
+You may also refer to our [Logistics Services](https://www.emarineonline.com/#/service-info/logistics) page for more information.
 
 ###  How do I update the Delivery status to the Buyers?
 
