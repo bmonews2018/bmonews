@@ -24,7 +24,7 @@ On the other hand, MOL strives to encourage the global Buyers (Shipowners) to se
 
 ###  MOL Service Fee Charges Rates and Policy
 
-Depending on the nature of the business for each platform, MOL will charge the service fee differently for each platform. For more information, please click [here](https://aboutus.emarineonline.com/docs/terms/seller_agreement) to view the service fees and transaction terms and conditions for each platform.
+Depending on the nature of the business for each platform, MOL will charge the service fee differently for each platform. For more information, please click [here](https://aboutus.emarineonline.com/docs/terms/fee) to view the service fees and transaction terms and conditions for each platform.
 
   [Back to Top](mol_service_fee#) 
   
