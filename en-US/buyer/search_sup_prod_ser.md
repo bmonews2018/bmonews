@@ -63,7 +63,7 @@ In MOL’s platform, there are two ways of communication methods for our registe
 
 First method: Live Chat/ Leave a Message. You will be able to chat with the Supplier at the Supplier’s Store and the Products/ Services page when you and the Supplier are both online. If the Supplier is offline, you may leave a message to the Supplier.
 
-Second method: Contact Number/ Email. If you will like to check the Supplier’s Contact Number/ Email, either you or the Supplier need to be MOL’s premium member.
+Second method: Contact Number/ Email. 
 
   [Back to Top](search_sup_prod_ser#)
   
