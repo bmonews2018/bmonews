@@ -9,6 +9,7 @@ name:	Registration And Verification
   * [Verification](#verification)
   * [Sub Accounts](#sub-accounts)
   * [Subscription](#subscription)
+  * [2FA](#2fa)
 
 ---
 
@@ -75,6 +76,18 @@ Note: The child user will inherit the same Business Type as the parent user.   [
 ###  Subscription
 
 To subscribe to News and/ or Other Services Subscription, Go to My MOL > Settings > Subscription > tick the News Subscription and/ or Other Services.
+
+---
+
+###  2FA
+
+**What is One-Time Pin (OTP)?**
+
+One-Time-Pin is an additional security layer we provide to ensure that all payment or any account transactions in MOL is authenticated and duly authorized. OTP will be sent to your authorized email address for every transaction made.
+
+**How to set-up my OTP?**
+
+To setup your authorized email address for your OTP, Go to My Cash Account > Security and follow the instructions in the page.
 
   [Back to Top](reg_verify#)
   
