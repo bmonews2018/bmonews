@@ -75,10 +75,6 @@ You will be able to manage your RFQ under Order Management after you had sent it
 
 	Note: If there is a Quotation already appointed, you will not be allowed to modify the RFQ. 
 
--	To delete the RFQ, Go to My MOL > Order > My Enquiry > Open/ Appointed/ Processing/ All tab > Click Cancel Order.
-
-	Note: For Open RFQ, you may cancel the order anytime. For Appointed/ Processing RFQ, you will need to have mutual agreement with the Supplier to cancel the order, otherwise it may lead to dispute.
-
   [Back to Top](rfq#)
   
 
