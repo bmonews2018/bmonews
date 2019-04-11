@@ -70,7 +70,7 @@ Following are the types of statuses:
 
     Note: Delivered status is updated automatically by the system when you click “Confirm Delivery” under Processing tab.
 
--	Payment status: Unpaid, Partially Paid, Paid 
+-	Payment status: Payment Pending, Paid 
 
   [Back to Top](shopping_cart#)
   
