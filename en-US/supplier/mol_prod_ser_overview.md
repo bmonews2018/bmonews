@@ -43,7 +43,7 @@ MOL and the Supplier will have 2 types of Co-operation models.
 
 -	1st model: You can appoint MOL to be your authorized reseller, and MOL will sell the products and services directly to the Buyers. MOL will pay to you.
 
--	2nd model: You can setup your own Store in MOL and sell the products and services directly to the Buyers, and based on the transaction transacted successfully will need to pay a certain service fee to MOL.
+-	2nd model: You can setup your own Store in MOL and sell the products and services directly to the Buyers, and based on the transaction transacted successfully will need to pay a certain service fee to MOL. (Check our Service Fee Schedule  [HERE](https://aboutus.emarineonline.com/docs/terms/fee))
 
   [Back to Top](mol_prod_ser_overview#)
   
