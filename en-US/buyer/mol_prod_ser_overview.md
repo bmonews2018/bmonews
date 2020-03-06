@@ -1,15 +1,15 @@
 ---
-name: MOL’s Products And Services Overview-
+name: MOL’s Products And Services Overview..
 ---
 
-## MOL’s Products And Services Overview
+## MOL’s Products And Services Overview..
 
   * [As A Buyer/ Shipowner, How Do I Make Use Of MOL To Purchase My Products/ Services?](#instruction-of-purchase)
   * [Is It Free For Me To Use MOL?](#free-of-charge)
 
 ---
 
-###  Instruction Of Purchase
+###  Instruction Of Purchase..
 
 It will be a simple journey to purchase in MOL as a Buyer/ Shipowner. 
 
