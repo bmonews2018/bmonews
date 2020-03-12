@@ -25,3 +25,5 @@ Note: Delivered status is updated automatically by the system when Buyer clicks 
 ###  What can I do if the Buyer refuses to accept the Products/ Services I delivered to them?
 
 Please check and verify that you have delivered the correct quantities of the Products/ Services to the Buyer based on your Quotation. If there is a dispute between you and the Buyer, you may contact our Customer Service who will be able to provide assistance on the issue. Refer to [Customer Service](http://aboutus.marineonline.com/docs/connect/contactus).
+
+
