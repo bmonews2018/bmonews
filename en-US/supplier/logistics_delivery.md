@@ -8,7 +8,7 @@ name: Logistics Delivery
 
 MOL is partnering with some of the renowned Third Party Logistics Services Providers worldwide whom are our authorized partners in the platform. You may contact MOL’s Logistics Services for the required Logistics Services. Click here for [Contact Information](https://aboutus.marineonline.com/docs/connect/contactus).
 
-You may also refer to our [Logistics Services](https://www.marineonline.com/logistics) page for more information.
+You may also refer to our [Logistics Services](https://www.marineonline.com/search/service?cateId=222810393821609473&catePid=220385573699846157&startPage=1&pageSize=10&layout=row) page for more information.
 
 ###  How do I update the Delivery status to the Buyers?
 
