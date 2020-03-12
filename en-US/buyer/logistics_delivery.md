@@ -8,7 +8,7 @@ name: Logistics Delivery
 
 You may check or arrange for Logistics delivery with the Supplier whom is providing the Products/ Services to you. Alternatively, you may contact MOL’s Logistics Services on the Third Party Logistics Partners we are partnering with for the Logistics delivery. Click here for [Contact Information](https://aboutus.marineonline.com/docs/connect/contactus).
 
-You may also refer to our [Logistics Services](https://www.marineonline.com/#/service-info/logistics) page for more information.
+You may also refer to our [Logistics Services](https://www.marineonline.com/search/service?cateId=222810393821609473&catePid=220385573699846157&startPage=1&pageSize=10&layout=row) page for more information.
 
 ###  How is the delivery fee calculated and how to make payment?
 
