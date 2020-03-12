@@ -42,7 +42,7 @@ You may go to My MOL > Order > My Purchase to check the Shopping Cart Order’s 
   
 ---
 
-###  The Different Statuses Of The Shopping Cart Order?
+###  The Different Statuses Of The Shopping Cart Order
 
 There are 5 types of statuses for the Shopping Cart Order:
 
